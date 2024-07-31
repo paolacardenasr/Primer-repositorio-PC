@@ -1,0 +1,20 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin:0px;
+}
+
+h1{
+    font-weight: bold;
+    color: crimson;
+}
+
+p {
+    font-size: 20px;
+    color: darkcyan;
+}
+
+ul {
+    color: hotpink;
+    font-size: 14px;
+    font-weight: bold;
+}
