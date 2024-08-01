@@ -18,3 +18,8 @@ ul {
     font-size: 14px;
     font-weight: bold;
 }
+
+.image{
+    max-width: 200px;
+    max-height: 200px;
+}
